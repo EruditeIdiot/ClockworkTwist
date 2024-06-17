@@ -1,0 +1,4 @@
+[06-Jan-2024 11:42:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home2/cwtwist/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/cwtwist/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17

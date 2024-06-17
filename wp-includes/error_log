@@ -1,0 +1,38 @@
+[17-Sep-2022 11:40:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home2/cwtwist/public_html/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/cwtwist/public_html/wp-includes/template-loader.php on line 28
+[21-Sep-2022 13:55:59 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[21-Sep-2022 13:55:59 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[21-Sep-2022 13:55:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[21-Sep-2022 13:55:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[21-Sep-2022 13:55:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 14:18:25 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 14:18:25 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 14:18:25 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 14:18:25 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 14:18:25 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[25-Dec-2022 13:36:14 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[25-Dec-2022 13:36:14 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[25-Dec-2022 13:36:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[25-Dec-2022 13:36:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[25-Dec-2022 13:36:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Feb-2023 01:46:50 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Feb-2023 01:46:50 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Feb-2023 01:46:50 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Feb-2023 01:46:50 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Feb-2023 01:46:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[07-Apr-2023 11:37:14 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[07-Apr-2023 11:37:14 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[07-Apr-2023 11:37:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[07-Apr-2023 11:37:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[07-Apr-2023 11:37:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[02-Jul-2023 13:07:29 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[02-Jul-2023 13:07:29 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[02-Jul-2023 13:07:29 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[02-Jul-2023 13:07:29 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[02-Jul-2023 13:07:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cwtwist/public_html/wp-includes/functions.php on line 8
+[23-Apr-2024 11:26:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home2/cwtwist/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cwtwist/public_html/wp-includes/class.wp-styles.php on line 18
