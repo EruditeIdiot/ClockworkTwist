@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Accept-Encoding, Cookie","Content-Type":"Content-Type: application\/xml; charset=UTF-8","Last-Modified":"Last-Modified: Sun, 09 Jun 2024 14:43:15 GMT"},"uri":"clockworktwist.com\/wp-sitemap.xml","blog_id":1,"post":0,"key":"clockworktwist.com443\/wp-sitemap.xml-text\/html"}
