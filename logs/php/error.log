@@ -1,0 +1,1 @@
+[07-Jul-2024 16:31:33 UTC] PHP Warning:  file_put_contents(C:\Users\emite\Local Sites\test\app\public/wp-content/uploads\simply-static\temp-files/simply-static-1-1720369834\/feed/index.html): Failed to open stream: No such file or directory in C:\Users\emite\Local Sites\test\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php on line 380
